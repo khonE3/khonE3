@@ -2,9 +2,8 @@
 
 
 <div id="header">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/nd0lphXcwThN2nlNFV/giphy.gif?cid=6c09b952skhwz5xb75eh2xn38gbiha3z0pz5ko8t7kjeva5z&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
 </div>
-
 
 
 
