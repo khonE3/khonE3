@@ -19,4 +19,8 @@ I'm diving into the world of programming, sharing projects, and building awesome
 
 🌟 **Connect, Learn, and Create Together!** 🌟  
 
+<div id="header">
+  <img src="https://media.tenor.com/hhda1rmSf3oAAAAM/come-at-me-pengu.gif" />
+</div>
+
 </div>
