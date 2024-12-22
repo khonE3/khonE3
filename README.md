@@ -12,7 +12,7 @@
 I'm diving into the world of programming, sharing projects, and building awesome tools for everyone.  
 
 <a href="https://github.com/khonE3/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khonE3&layout=compact&langs_count=8&card_width=320" alt="Top Languages" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khonE3&hide_progress=true" alt="Top Languages" />
 </a>  
 
 ---
