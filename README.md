@@ -12,7 +12,7 @@
 I'm diving into the world of programming, sharing projects, and building awesome tools for everyone.  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khonE3&layout=donut&theme=dracula&hide_progress=true&border_color=BD93F9&title_color=FF79C6&card_width=400&title_align=center)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khonE3&layout=donut&theme=dracula&hide_progress=true&border_color=BD93F9&title_color=FF79C6&card_title_align=center)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
