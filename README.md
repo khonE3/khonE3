@@ -12,11 +12,9 @@
 I'm diving into the world of programming, sharing projects, and building awesome tools for everyone.  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khonE3&layout=donut&theme=dracula&hide_progress=true&border_color=BD93F9&title_color=FF79C6&card_title_align=center)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
-  <a href="https://github.com/Kritchanaxt">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khonE3&layout=compact&langs_count=10&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=181824&cache_seconds=100" alt="Top Langs"/>
+  <a href="https://github.com/khonE3">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khonE3&layout=compact&langs_count=20&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=181824&cache_seconds=100&hide=php" alt="Top Langs"/>
   </a>
 </p>
 
