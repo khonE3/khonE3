@@ -69,25 +69,32 @@ I'm diving into the world of programming, sharing projects, and building awesome
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-
+![Gin](https://img.shields.io/badge/Gin-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00ADFF?style=for-the-badge&logo=gofiber&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![uv](https://img.shields.io/badge/uv-261230?style=for-the-badge&logo=python&logoColor=white)
 
 ### **🤖 Generative AI**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=white)
+![FastMCP](https://img.shields.io/badge/FastMCP-D97757?style=for-the-badge&logo=python&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Desktop](https://img.shields.io/badge/Claude%20Desktop-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Local AI](https://img.shields.io/badge/Local_AI_(Ollama)-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ### **🗄️ Databases**
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### **☁️ Backend as a Service (BaaS)**
+### **☁️  Cloud Services & Backend as a Service (BaaS)**
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
@@ -102,7 +109,7 @@ I'm diving into the world of programming, sharing projects, and building awesome
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### **🖥️ Development Tools**
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
 
