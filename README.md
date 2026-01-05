@@ -63,7 +63,7 @@ I'm diving into the world of programming, sharing projects, and building awesome
 
 ### **🎨 Frameworks & Libraries**
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Nuxt JS](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -115,6 +115,7 @@ I'm diving into the world of programming, sharing projects, and building awesome
 ### **🖥️ Tools**
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-6f42c1?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
