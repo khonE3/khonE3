@@ -84,6 +84,7 @@ I'm diving into the world of programming, sharing projects, and building awesome
 ![RAG](https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude Desktop](https://img.shields.io/badge/Claude%20Desktop-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Local AI](https://img.shields.io/badge/Local_AI_(Ollama)-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ### **🗄️ Databases**
