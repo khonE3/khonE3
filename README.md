@@ -84,7 +84,6 @@ I'm diving into the world of programming, sharing projects, and building awesome
 ![RAG](https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude Desktop](https://img.shields.io/badge/Claude%20Desktop-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Local AI](https://img.shields.io/badge/Local_AI_(Ollama)-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ### **🗄️ Databases**
@@ -116,6 +115,7 @@ I'm diving into the world of programming, sharing projects, and building awesome
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-6f42c1?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
