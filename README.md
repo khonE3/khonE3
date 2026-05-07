@@ -125,17 +125,23 @@ I'm diving into the world of programming, sharing projects, and building awesome
 
 ### 🖥️ Tools
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-F5F5DC?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Zed](https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zed&logoColor=white)
-![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
 ![Lens](https://img.shields.io/badge/Lens%20IDE-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-6f42c1?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### **🏗️ Architecture & Design Patterns**
+![Monolithic](https://img.shields.io/badge/Monolithic-673AB7?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-33B5E5?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4CAF50?style=for-the-badge)
+
+
 </div>
 
 ---
